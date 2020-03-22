@@ -27,6 +27,7 @@
     "react-native-navigation-bar-color": "0.1.0",
     "react-native-onesignal": "^3.4.2",
     "react-native-open-maps": "^0.3.3",
+    "react-native-paper": "^3.6.0",
     "react-native-push-notification": "^3.1.9",
     "react-native-render-html": "^4.1.2",
     "react-native-responsive-dimensions": "^2.0.1",
@@ -36,6 +37,8 @@
     "react-native-table-component": "^1.2.1",
     "react-native-vector-icons": "^6.6.0",
     "react-native-webview": "^7.0.5",
+    "react-navigation": "^4.3.2",
+    "react-navigation-material-bottom-tabs": "^2.2.5",
     "weeknumber": "^1.1.1",
     "whatwg-fetch-timeout": "^2.0.2-timeout"
   },
