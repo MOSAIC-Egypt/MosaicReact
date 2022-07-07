@@ -13,7 +13,7 @@
     "@react-native-community/async-storage": "^1.6.2",
     "buffer": "^5.4.3",
     "current-week-number": "^1.0.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.8.6",
     "react-native": "^0.60.5",
     "react-native-device-info": "^5.2.1",
